@@ -1,7 +1,7 @@
-ReactStarter
+ReactStarter Demo
 ====
 
-Use this as a starting point for working on chapters of the [Build Web Apps with React JS and Flux](https://www.udemy.com/learn-and-understand-reactjs/) course on Udemy.com.
+This is a sample react app for a course on course on Udemy.com.
 
 ---
 
